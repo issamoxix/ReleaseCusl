@@ -6,6 +6,19 @@
         <description>Most recent updates to cusl</description>
         <language>en</language>
         <item>
+            <title>Version 1.1.1</title>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>https://github.com/issamoxix/ReleaseCusl/releases/tag/v1.1.1</sparkle:releaseNotesLink>
+            <pubDate>Fri, 31 Jan 2026 22:30:00 +0000</pubDate>
+            <enclosure 
+                url="https://github.com/issamoxix/ReleaseCusl/releases/download/v1.1.1/cusl.dmg"
+                sparkle:edSignature="HHM/D2itZBcm2VgU6Ir78rkPbWQxcRp9+JeBsfevNec6ka1L05h/VqZ2P7RRVRcf5xUUuNpbmR2AIv+VUzSMBA=="
+                length="1636857"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.0.0</title>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
