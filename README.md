@@ -1,2 +1,2 @@
-# ReleaseCusl
-https://trycusl.com/
+# Release captrr
+[https://captrr.io/](https://captrr.io/)
