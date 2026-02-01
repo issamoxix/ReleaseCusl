@@ -1,9 +1,9 @@
 {
-  "version": "1.1.4",
-  "build": 5,
+  "version": "1.1.5",
+  "build": 6,
   "minimumOS": "12.0",
-  "url": "https://github.com/issamoxix/ReleaseCusl/releases/download/v1.1.4/cusl.dmg",
-  "releaseNotes": "Fixed auto-updater installation",
+  "url": "https://github.com/issamoxix/ReleaseCusl/releases/download/v1.1.5/cusl.dmg",
+  "releaseNotes": "Improved version comparison for updates",
   "signature": "",
-  "size": 760817
+  "size": 768910
 }
