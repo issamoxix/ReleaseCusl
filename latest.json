@@ -1,0 +1,9 @@
+{
+  "version": "1.1.1",
+  "build": 2,
+  "minimumOS": "12.0",
+  "url": "https://github.com/issamoxix/ReleaseCusl/releases/download/v1.1.1/cusl.dmg",
+  "releaseNotes": "Bug fixes and performance improvements",
+  "signature": "HHM/D2itZBcm2VgU6Ir78rkPbWQxcRp9+JeBsfevNec6ka1L05h/VqZ2P7RRVRcf5xUUuNpbmR2AIv+VUzSMBA==",
+  "size": 1636857
+}
